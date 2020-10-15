@@ -1,0 +1,15 @@
+.back-section{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding:15px;
+    margin-bottom: 3px;
+}
+
+.wish-list{
+    padding: 8px;
+    color: #673AB7;
+    border-radius: 5px;
+    border: 1px solid #c5c5c5;
+}
